@@ -1,6 +1,3 @@
-# aws-cloudwatch-cpu-utilization-alarm
-Configured a CloudWatch CPU utilization alarm for an EC2 instance and integrated it with SNS for email alerts.
-
 # aws-cloudwatch-cpu-alarm-project
 Created a CloudWatch CPU utilization alarm that sends notifications when an EC2 instance exceeds a threshold.
 
