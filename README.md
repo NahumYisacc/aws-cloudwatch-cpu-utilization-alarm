@@ -27,4 +27,4 @@ This project demonstrates how to monitor an EC2 instance using Amazon CloudWatch
 ![Alarm](screenshots/ALARMredstate.png)
 
 ### Email Notification
-*(Upload your email screenshot to the screenshots folder and add it here)*
+![Email](screenshots/email.png)
