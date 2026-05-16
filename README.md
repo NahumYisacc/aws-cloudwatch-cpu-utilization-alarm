@@ -12,19 +12,19 @@ This project demonstrates how to monitor an EC2 instance using Amazon CloudWatch
 ## Screenshots
 
 ### EC2 Instance
-![EC2](screenshots/ec2.png)
+![EC2](screenshots/EC2InstanceRunning.png)
 
 ### CloudWatch Metrics
-![Metrics](screenshots/metrics.png)
+![Metrics](screenshots/CPUUtilizationgraph.png)
 
 ### Alarm Configuration
-![Alarm Config](screenshots/alarm-config.png)
+![Alarm Config](screenshots/ALARMredstate.png)
 
 ### SNS Subscription
-![SNS](screenshots/sns.png)
+![SNS](screenshots/SNSSubscription.png)
 
 ### Alarm Triggered (ALARM State)
-![Alarm](screenshots/alarm.png)
+![Alarm](screenshots/ALARMredstate.png)
 
 ### Email Notification
-![Email](screenshots/email.png)
+*(Upload your email screenshot to the screenshots folder and add it here)*
